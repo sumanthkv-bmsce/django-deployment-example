@@ -1,1 +1,1 @@
-Django is the best framework
+Django is the best framework to work with
